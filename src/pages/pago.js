@@ -9,11 +9,11 @@ class Pago extends React.Component {
   <div className="col">
         <div>
         <center>
-          <img className="puffles" src="https://i.pinimg.com/originals/52/d7/7c/52d77c0ac489637cf0c59ab21c60e9ea.png" alt="Logo"/></center>
+          <img className="puffles" src="https://images.vexels.com/media/users/3/146891/isolated/preview/76fcdee6eb30cd081fb893e7a866c70d-mano-con-billete-de-un-d--lar-by-vexels.png" alt="Logo"/></center>
         </div>
  
         <br/>
-        <h4 class="text-center">Ubicación</h4>
+        <h4 class="text-center">metodo de pago efectivo</h4>
         <br />
        
         
@@ -30,21 +30,18 @@ class Pago extends React.Component {
     </div>
     <br/>
     <div class="col">
-      <input type="text" class="form-control" placeholder="confirmar direccion"/>
+      <input type="text" class="form-control" placeholder="devuelta"/>
     </div>
   </div>
 </form>
   <br/>
   <center><button type="button" class="btn btn-dark">
-  <a href="pedido">Siguiente</a>
+  <a href="confirmacionpago">confirmar</a>
   </button></center>
 <br/>
 <br/>
-<div>
-<center><button type="cancelar" class="btn btn-dark">
-  <a href="inicio">cancelar</a>
-  </button></center>
-</div>
+
+
 
 
         <br/><br/>

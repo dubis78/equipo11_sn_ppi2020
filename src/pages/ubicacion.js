@@ -9,7 +9,7 @@ class Pago extends React.Component {
   <div className="col">
         <div>
         <center>
-          <img className="puffles" src="https://image.flaticon.com/icons/png/512/20/20925.png" alt="Logo"/></center>
+          <img className="puffles" src="https://i.pinimg.com/originals/52/d7/7c/52d77c0ac489637cf0c59ab21c60e9ea.png" alt="Logo"/></center>
         </div>
  
         <br/>
