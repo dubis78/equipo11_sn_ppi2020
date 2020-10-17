@@ -17,8 +17,9 @@ import miscitas from "../pages/miscitas"
 import cancelarcita from "../pages/cancelarcita"
 import paginacita from "../pages/paginacita"
 import ubicacion from "../pages/ubicacion"
-import pago from "../pages/pago"
 import confirmacionpago from "../pages/confirmacionpago"
+import pago from "../pages/pago"
+
 
 const App = () => {
   return (
@@ -41,8 +42,8 @@ const App = () => {
         <Route exact path="/cancelarcita" component={cancelarcita} />
         <Route exact path="/paginacita" component={paginacita} />
         <Route exact path="/ubicacion" component={ubicacion} />
-        <Route exact path="/pago" component={pago} />
         <Route exact path="/confirmacionpago" component={confirmacionpago} />
+        <Route exact path="/pago" component={pago} />
         </Switch>
     </BrowserRouter>
   );

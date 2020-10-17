@@ -2,7 +2,7 @@ import React from "react";
 import "../Style/style5.css";
 
 
-class Entrada extends React.Component {
+class pago extends React.Component {
   render() {
     return (
       <div className="container-fluid">
@@ -23,4 +23,4 @@ class Entrada extends React.Component {
   }
 }
 
-export default Entrada;
+export default pago;
