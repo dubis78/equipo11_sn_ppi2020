@@ -1,0 +1,10 @@
+.puffles {
+width: 300px;
+max-width: 90%;
+}
+.flechaD {
+  width: 40px;
+  max-width: 200%;
+  float: right;
+  margin-left: 10px;
+}

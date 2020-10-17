@@ -1,0 +1,40 @@
+.btnmenu {
+  width: 150px;
+  height: 40px;
+  border-radius:5px;
+  border-color: black;
+  background-color: #1CDEB8;
+}
+.btnmenu2 {
+  width: 150px;
+  margin-top: 25px;
+  height: 40px;
+  border-radius:5px;
+  border-color: black;
+  background-color:#1CDEB8;
+}
+.btnmenu3 {
+  width: 150px;
+  margin-top: 25px;
+  height: 40px;
+  border-radius:5px;
+  border-color: black;
+  background-color: #1CDEB8;
+}
+
+.btnmenu5 {
+  width: 150px;
+  margin-top: 25px;
+  height: 40px;
+  border-radius:5px;
+  border-color: black;
+  background-color: #1CDEB8;
+  }
+
+  .Regresar2 {
+    width: 40px;
+    max-width: 200%;
+    float: right;
+    margin-left: 10px;
+  }
+  
