@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "/index.html",
+  "main": "frontend/src/index.js",
   "dependencies": {
     "bootstrap": "4.5.3",
     "react": "16.14.0",
