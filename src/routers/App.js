@@ -9,7 +9,7 @@ import Inicio from "../pages/Inicio"
 import perfil from "../pages/perfil"
 import editar from "../pages/editar"
 import menu from "../pages/menu"
-import wpp from "../pages/wpp"
+//import wpp from "../pages/wpp"
 import calendario from "../pages/calendario"
 import promociones from "../pages/promociones"
 import importante from "../pages/importante"
@@ -33,8 +33,7 @@ const App = () => {
         <Route exact path="/Inicio" component={Inicio} />
         <Route exact path="/perfil" component={perfil} />
         <Route exact path="/editar" component={editar} />
-        <Route exact path="/menu" component={menu} />
-        <Route exact path="/wpp" component={wpp} />
+        <Route exact path="/menu" component={menu} />        
         <Route exact path="/calendario" component={calendario} />
         <Route exact path="/promociones" component={promociones} />
         <Route exact path="/importante" component={importante} />
