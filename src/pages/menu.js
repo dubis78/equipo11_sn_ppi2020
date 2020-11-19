@@ -8,7 +8,7 @@ class menu extends React.Component {
       <div>
        <div  className="navegador">
           <a href="perfil"><img className="menuh Menuh-perfil" src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/user_male2-512.png" alt="user"/></a>
-          <a href="menu"><img className="menuh" src="https://lh3.googleusercontent.com/proxy/AcZe_DNMRDVtHVeHn3gGiIWgXg1zuplDmICPrcz7EqNbYqYM7MK36gbvDF6BV3I8MtQ1BHSJ79Rus8iyi0l8wPce4lYOyxSMWUJYzjIbwA6c8VtLPk0" alt="menu"/></a>    
+          <a href="menu"><img className="menuh" src="https://www.samueldiosdado.com/wp-content/uploads/2017/08/Men%C3%BA-hamburguesa-herramienta-practica-o-icono-inutil.pngv" alt="menu"/></a>    
          CONFIGURACION Y DATOS
         </div>
         <div className="container-fluid">
